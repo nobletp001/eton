@@ -28,10 +28,10 @@ export const Header = () => {
         <Link href="/">
         <div className={styles.logoWrapper}>
             <Image src={logo} />
-            <p style={{ marginTop: 20 }}>E•networkA</p>
+            <p style={{ marginTop: 20 }} className="text-white">E•network</p>
           </div>
         </Link>
-          <div className="text-3xl md:hidden cursor-pointer" onClick={() => setOpen(!open)}>
+          <div className="text-3xl md:hidden cursor-pointer text-white" onClick={() => setOpen(!open)}>
             {
               open ? <AiOutlineClose/> : 
   <FiMenu />
@@ -49,7 +49,7 @@ export const Header = () => {
 
           <ul
           className={`
-        md:hidden bg-black z-[100000000px] fixed w-full top-0 overflow-y-hidden bottom-0 py-1 pl-5
+        md:hidden bg-black text-white fixed w-full top-0 overflow-y-hidden bottom-0 py-1 pl-5
         duration-500 ${open ? "left-0" : "left-[-100%]"}
         `}
         >

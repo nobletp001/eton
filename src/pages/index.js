@@ -66,7 +66,7 @@ function Index() {
       <div className="ml-[5%] mr-[3%]">
         <div class="grid md:grid-cols-3 xs:grid-cols-12 gap-1">
           <div class="mt-[200px] ">
-            <h1 className="text-f50  md:text-f64  font-fdm">
+            <h1 className="text-f50 text-white  md:text-f64  font-fdm">
               <span className="textGradient">The better way</span> to experience
               Web3 Power
             </h1>

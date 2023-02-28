@@ -41,7 +41,7 @@ function NavLinks({setOpen}) {
 
             >
         
-            <div>  {l.name}</div>
+            <div className='text-white'>  {l.name}</div>
              {
                 l.isSub &&  <div className='ml-1.5'>
 

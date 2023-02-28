@@ -19,7 +19,7 @@ function Enetpad() {
       <div className='ml-[5%]  mr-3'>
       <div class="grid md:grid-cols-2 xs:grid-cols-12 gap-10">
       <div class="md:mt-[200px]  mt-[50px]">
-      <h1 className="text-f50 md:text-f64  font-fInter font-fdm">
+      <h1 className="text-f50 md:text-f64  font-fInte text-white">
 
       Get <span className='textGradient2'> early access</span> to nurtured ideas of <span className=' text-A '>tomorrow</span>
         
@@ -52,7 +52,7 @@ function Enetpad() {
       </div>
 
       <div className='mt-20 w-full'>
-              <h1 className='font-thin text-center font-fInter text-f16  tracking-[0.285em] leading-[127.9%] non-italic '> We Help You Raise Enough Funds To Support Your Project</h1>
+              <h1 className='font-thin text-center font-fInter text-f16  tracking-[0.285em] leading-[127.9%] non-italic  text-white'> We Help You Raise Enough Funds To Support Your Project</h1>
 <div className='w-full justify-center items-center flex mt-5'>
 <div className='md:w-[70%] w-full borderStyle '>
 <div className='w-full h-full flex justify-center items-center px-2'>
@@ -106,7 +106,57 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
+<div className='flex items-center justify-between mt-10 gap-3'>
+<p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
+<div className='borderBottom flex-1'></div>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white'>$670,000</h3>
+
+
+</div>
+<div className='flex items-center justify-between mt-4 gap-3'>
+<p className=' font-normal text-f22 font-fInter  text-textD'>Max Allocation</p>
+<div className='borderBottom md:w-[40%] w-[20%]'></div>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$590</h3>
+
+
+</div>
+
+</div>
+
+<div className='h-[50px] w-full mt-2 br flex justify-center items-center bg-[#1E1E1E]'>
+  <h1 className='font-bold text-f16 font-fInter  text-textD'>TOKEN SALE</h1>
+</div>
+
+</div>
+</div>
+<div className='card3'>
+<div className='h-[40%] w-full relative'>
+  <p className='absolute top-2 right-2 text-f10 text-[ #C8CAFF] font-fInter'>Allowlist open</p>
+<Image
+src={bgCard}
+alt="bgCard"
+className='w-full'
+/>
+<div className='absolute md:bottom-[-50px] bottom-[-10px]'>
+<Image
+src={Etin3}
+alt="etin3"
+className='w-full'
+/> 
+</div>
+</div>
+<div className='subCard3 '>
+<div className='p-4 w-full'>
+<div className='flex justify-between items-center mt-5'>
+  <h2 className='leading-[198.02%] font-fInter font-bold text-white text-f25'>Alpha-Dogs</h2>
+  <Image 
+  src={Etin2}
+  alt="etin2"
+  />
+</div>
+<p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Fundraise Goal</p>
 <div className='borderBottom flex-1'></div>
@@ -156,68 +206,18 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Fundraise Goal</p>
 <div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$670,000</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$670,000</h3>
 
 
 </div>
 <div className='flex items-center justify-between mt-4 gap-3'>
 <p className=' font-normal text-f22 font-fInter  text-textD'>Max Allocation</p>
 <div className='borderBottom md:w-[40%] w-[20%]'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$590</h3>
-
-
-</div>
-
-</div>
-
-<div className='h-[50px] w-full mt-2 br flex justify-center items-center bg-[#1E1E1E]'>
-  <h1 className='font-bold text-f16 font-fInter  text-textD'>TOKEN SALE</h1>
-</div>
-
-</div>
-</div>
-<div className='card3'>
-<div className='h-[40%] w-full relative'>
-  <p className='absolute top-2 right-2 text-f10 text-[ #C8CAFF] font-fInter'>Allowlist open</p>
-<Image
-src={bgCard}
-alt="bgCard"
-className='w-full'
-/>
-<div className='absolute md:bottom-[-50px] bottom-[-10px]'>
-<Image
-src={Etin3}
-alt="etin3"
-className='w-full'
-/> 
-</div>
-</div>
-<div className='subCard3 '>
-<div className='p-4 w-full'>
-<div className='flex justify-between items-center mt-5'>
-  <h2 className='leading-[198.02%] font-fInter font-bold text-white text-f25'>Alpha-Dogs</h2>
-  <Image 
-  src={Etin2}
-  alt="etin2"
-  />
-</div>
-<p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
-<div className='flex items-center justify-between mt-10 gap-3'>
-<p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Fundraise Goal</p>
-<div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$670,000</h3>
-
-
-</div>
-<div className='flex items-center justify-between mt-4 gap-3'>
-<p className=' font-normal text-f22 font-fInter  text-textD'>Max Allocation</p>
-<div className='borderBottom md:w-[40%] w-[20%]'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$590</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$590</h3>
 
 
 </div>
@@ -278,18 +278,18 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
 <div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3,670,000</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$3,670,000</h3>
 
 
 </div>
 <div className='flex items-center justify-between mt-4 gap-3'>
 <p className=' font-normal text-f22 font-fInter  text-textD'>Participants </p>
 <div className='borderBottom md:w-[40%] w-[20%]'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3590</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$3590</h3>
 
 
 </div>
@@ -328,69 +328,18 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
 <div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3,670,000</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1  text-white'>$3,670,000</h3>
 
 
 </div>
 <div className='flex items-center justify-between mt-4 gap-3'>
 <p className=' font-normal text-f22 font-fInter  text-textD'>Participants </p>
 <div className='borderBottom md:w-[40%] w-[20%]'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3590</h3>
-
-
-</div>
-
-</div>
-
-<div className='h-[50px] w-full mt-2 br flex justify-center items-center bg-[#1E1E1E]'>
-  <h1 className='font-bold text-f16 font-fInter  text-textD'>TOKEN SALE</h1>
-</div>
-
-</div>
-</div>
-
-<div className='card3'>
-<div className='h-[40%] w-full relative'>
-  <p className='absolute top-2 right-2 text-f10 text-[ #C8CAFF] font-fInter'>Ended 12.12.2023</p>
-<Image
-src={bgCard}
-alt="bgCard"
-className='w-full'
-/>
-<div className='absolute md:bottom-[-50px] bottom-[-10px]'>
-<Image
-src={Etin3}
-alt="etin3"
-className='w-full'
-/> 
-</div>
-</div>
-<div className='subCard3 '>
-<div className='p-4 w-full'>
-<div className='flex justify-between items-center mt-5'>
-  <h2 className='leading-[198.02%] font-fInter font-bold text-white text-f25'>Alpha-Dogs</h2>
-  <Image 
-  src={Etin2}
-  alt="etin2"
-  />
-</div>
-<p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
-<div className='flex items-center justify-between mt-10 gap-3'>
-<p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
-<div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3,670,000</h3>
-
-
-</div>
-<div className='flex items-center justify-between mt-4 gap-3'>
-<p className=' font-normal text-f22 font-fInter  text-textD'>Participants </p>
-<div className='borderBottom md:w-[40%] w-[20%]'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3590</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1  text-white'>$3590</h3>
 
 
 </div>
@@ -430,18 +379,18 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
 <div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3,670,000</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$3,670,000</h3>
 
 
 </div>
 <div className='flex items-center justify-between mt-4 gap-3'>
 <p className=' font-normal text-f22 font-fInter  text-textD'>Participants </p>
 <div className='borderBottom md:w-[40%] w-[20%]'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3590</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1  text-white'>$3590</h3>
 
 
 </div>
@@ -481,11 +430,11 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
 <div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3,670,000</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white'>$3,670,000</h3>
 
 
 </div>
@@ -532,11 +481,62 @@ className='w-full'
   />
 </div>
 <p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
-<h3 className='text-f21 font-fInter font-normal mt-10'>The Dog of the Wolf street.</h3>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
 <div className='flex items-center justify-between mt-10 gap-3'>
 <p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
 <div className='borderBottom flex-1'></div>
-<h3 className='text-f22 font-fInter font-normal flex-1 '>$3,670,000</h3>
+<h3 className='text-f22 font-fInter font-normal flex-1  text-white'>$3,670,000</h3>
+
+
+</div>
+<div className='flex items-center justify-between mt-4 gap-3'>
+<p className=' font-normal text-f22 font-fInter  text-textD'>Participants </p>
+<div className='borderBottom md:w-[40%] w-[20%]'></div>
+<h3 className='text-f22 font-fInter font-normal flex-1 '>$3590</h3>
+
+
+</div>
+
+</div>
+
+<div className='h-[50px] w-full mt-2 br flex justify-center items-center bg-[#1E1E1E]'>
+  <h1 className='font-bold text-f16 font-fInter  text-textD'>TOKEN SALE</h1>
+</div>
+
+</div>
+</div>
+
+<div className='card3'>
+<div className='h-[40%] w-full relative'>
+  <p className='absolute top-2 right-2 text-f10 text-[ #C8CAFF] font-fInter'>Ended 12.12.2023</p>
+<Image
+src={bgCard}
+alt="bgCard"
+className='w-full'
+/>
+<div className='absolute md:bottom-[-50px] bottom-[-10px]'>
+<Image
+src={Etin3}
+alt="etin3"
+className='w-full'
+/> 
+</div>
+</div>
+<div className='subCard3 '>
+<div className='p-4 w-full'>
+<div className='flex justify-between items-center mt-5'>
+  <h2 className='leading-[198.02%] font-fInter font-bold text-white text-f25'>Alpha-Dogs</h2>
+  <Image 
+  src={Etin2}
+  alt="etin2"
+  />
+</div>
+<p className=' font-normal text-f17 font-fInter  text-textD'>$INER</p>
+<h3 className='text-f21 font-fInter font-normal mt-10 text-white'>The Dog of the Wolf street.</h3>
+<div className='flex items-center justify-between mt-10 gap-3'>
+<p className=' font-normal text-f22 font-fInter flex-2 text-textD'>Raised funds</p>
+<div className='borderBottom flex-1'></div>
+<h3 className='text-f22 font-fInter font-normal flex-1 text-white '>$3,670,000</h3>
 
 
 </div>

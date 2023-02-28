@@ -17,7 +17,7 @@ function AboutUs() {
   return (
     <div className='md:mx-[5%] mx-[1%]'>
 <div className='md:mt-[100px] mt-[50px] w-full flex flex-col justify-center items-center'>
-  <div className='text-center md:text-[80px] text-[50px] md:w-[78%] w-full  font-fInter font-medium leading-[130%] '>Creating a sustainable 
+  <div className='text-center md:text-[80px] text-[50px] md:w-[78%] w-full  font-fInter font-medium leading-[130%]  text-white'>Creating a sustainable 
 </div>
 <div className='text-center  text-textC md:text-[80px] text-[50px] md:w-[78%] w-full  font-fInter font-medium leading-[130%] '>web3 system</div>
 </div>
@@ -90,7 +90,7 @@ alt="ring"
 </div>
 </div>
 <div className='mt-[100px]'>
-<h2 className='text-center text-[80px] font-semibold font-fInter leading-[135%]'>Team</h2>
+<h2 className='text-center text-[80px] font-semibold text-white font-fInter leading-[135%]'>Team</h2>
 <div className='w-full flex justify-center items-center mt-20'>
 
   <div>
@@ -98,7 +98,7 @@ alt="ring"
     src={CEO}
     alt="ceo"
     />
-    <h4 className='font-semibold font-fdm text-center mt-8  leading-[120%]'>Offor Johncee</h4>
+    <h4 className='font-semibold font-fdm text-center mt-8  text-white leading-[120%]'>Offor Johncee</h4>
     <p className='text-[24px] leading-[120%] font-medium font-fInter text-A text-center mt-5'>CEO</p>
   </div>
 </div>
@@ -109,7 +109,7 @@ alt="ring"
     src={AMBASSADOR}
     alt="ceo"
     />
-    <h4 className='font-semibold font-fdm text-center mt-8  leading-[120%]'>Quivira Ophir</h4>
+    <h4 className='font-semibold font-fdm text-center mt-8 text-white  leading-[120%]'>Quivira Ophir</h4>
     <p className='text-[24px] leading-[120%] font-medium font-fInter text-A text-center mt-5'>CTO</p>
   </div>
   <div>
@@ -117,7 +117,7 @@ alt="ring"
     src={AMBASSADOR}
     alt="ceo"
     />
-    <h4 className='font-semibold font-fdm text-center mt-8  leading-[120%]'>Mona</h4>
+    <h4 className='font-semibold font-fdm text-center text-white mt-8  leading-[120%]'>Mona</h4>
     <p className='text-[24px] leading-[120%] font-medium font-fInter text-A text-center mt-5'>COO</p>
   </div>
   <div>
@@ -125,7 +125,7 @@ alt="ring"
     src={CEO}
     alt="ceo"
     />
-    <h4 className='font-semibold font-fdm text-center mt-8  leading-[120%]'>Falco Pangkey</h4>
+    <h4 className='font-semibold font-fdm text-center mt-8  text-white leading-[120%]'>Falco Pangkey</h4>
     <p className='text-[24px] leading-[120%] font-medium font-fInter text-A text-center mt-5'>CMO</p>
   </div>
   <div>
@@ -133,7 +133,7 @@ alt="ring"
     src={CEO}
     alt="ceo"
     />
-    <h4 className='font-semibold font-fdm text-center mt-8  leading-[120%]'>Falco Pangkey</h4>
+    <h4 className='font-semibold font-fdm text-center mt-8  text-white leading-[120%]'>Falco Pangkey</h4>
     <p className='text-[24px] leading-[120%] font-medium font-fInter text-A text-center mt-5'>CCO</p>
   </div>
 </div>
