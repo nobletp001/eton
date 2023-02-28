@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "export default/*": ["./src/*"]
+    }
+  }
+}
