@@ -32,11 +32,7 @@ a {
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
+
 
 @layer components {
   .redefineCard{
@@ -382,6 +378,3 @@ border-radius: 22px;
   display: flex;
 }}
 
-.styles_header__vKcaG {
-  /* z-index: 100000000; */
-}
