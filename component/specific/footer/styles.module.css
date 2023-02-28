@@ -129,12 +129,7 @@
     padding: 4rem;
   }
 
-  .grid {
-    /* grid-template-columns: 1fr; */
-    /* margin-bottom: 120px; */
-    /* max-width: 320px; */
-    /* text-align: center; */
-  }
+ 
 
   .card {
     padding: 1rem 0.5rem;
@@ -150,12 +145,7 @@
 
 }
 
-/* Tablet and Smaller Desktop */
-@media (min-width: 701px) and (max-width: 1120px) {
-  .grid {
-    grid-template-columns: repeat(2, 50%);
-  }
-}
+
 
 
 
