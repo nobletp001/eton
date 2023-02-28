@@ -61,7 +61,7 @@ function Index() {
   <link rel="stylesheet" type="text/css" charSet="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" /> 
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
 </Head>
-    <div className="bg-[url('../assets/bg.svg')] ">
+    <div className="bg-[url('../assets/bg.svg')]">
       <Header />
       <div className="ml-[5%] mr-[3%]">
         <div class="grid md:grid-cols-3 xs:grid-cols-12 gap-1">

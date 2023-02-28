@@ -1,11 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-import "swiper/swiper.min.css";
-import 'swiper/css/effect-coverflow';
-import 'swiper/css/pagination';
-import 'swiper/css/navigation';
-import { useMediaQuery } from 'react-responsive'
 import { EffectCoverflow, Pagination, Navigation , Autoplay,} from 'swiper';
 import Phone from "../../src/assets/phone.png";
 import Logo from "../../src/assets/smallLogo.png";

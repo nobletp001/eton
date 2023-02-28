@@ -5,10 +5,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination,  Autoplay, } from "swiper";
 import ATM from "../../src/assets/atm.png";
 
-// Import Swiper styles
-import "swiper/swiper.min.css";
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+
 import Image from 'next/image';
 import {MdKeyboardArrowRight} from "react-icons/md";
 

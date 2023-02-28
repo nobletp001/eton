@@ -4,7 +4,7 @@ import styles from '../../../src/styles/Home.module.css';
 import { Header } from 'component/specific/header';
 import { Footer } from 'component/specific/footer';
 import { useRouter } from 'next/router';
-const inter = Inter({ subsets: ['latin'] });
+
 
 export default function Wrapper({ children }) {
     const router = useRouter();
