@@ -28,7 +28,7 @@ export const Header = () => {
         <Link href="/">
         <div className={styles.logoWrapper}>
             <Image src={logo} />
-            <p style={{ marginTop: 20 }}>E•network</p>
+            <p style={{ marginTop: 20 }}>E•networkA</p>
           </div>
         </Link>
           <div className="text-3xl md:hidden cursor-pointer" onClick={() => setOpen(!open)}>
